@@ -1,7 +1,7 @@
 print('Hola mundo')
 
 print('Mañana sera bonito y pasado tambien,ayer lo fue')
-
+print('oooo que sera')
 
 #Cosas feas
 def numero(n):
