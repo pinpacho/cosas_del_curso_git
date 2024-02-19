@@ -3,15 +3,15 @@ print('Hola mundo')
 print('Mañana sera bonito')
 
 
-#NUeva cosas
+#Cosas feas
 def numero(n):
-    print(n+1)
+    print(n+564)
 
-numero(5)
+numero(325)
 
 
 
-lista=[1.2,452,25,524,2352]
+lista=[1.2,60,25,524,2352]
 
 numero(5)
 
