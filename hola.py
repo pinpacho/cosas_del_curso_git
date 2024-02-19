@@ -1,6 +1,6 @@
 print('Hola mundo')
 
-print('Mañana sera bonito')
+print('Mañana sera bonito y pasado tambien')
 
 
 #Cosas feas
