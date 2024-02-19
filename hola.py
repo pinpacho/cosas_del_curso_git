@@ -13,14 +13,12 @@ numero(5)
 
 lista=[1.2,452,25,524,2352]
 
-<<<<<<< HEAD
 numero(5)
 
 
 #Se agregan mas cosas
 
 print('no se agregar xd')
-=======
-for i in lista:
-    print(i)
->>>>>>> cabecera
+
+
+print("Nuevo comentario")
